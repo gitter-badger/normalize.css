@@ -1,4 +1,5 @@
 # normalize.css v3
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/pablohenrique6/normalize.css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Normalize.css is a customisable CSS file that makes browsers render all
 elements more consistently and in line with modern standards.
